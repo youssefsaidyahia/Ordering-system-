@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "p97/hrEz2jCUDs8NDCADxqkTe9inAJhvgrBBE2k6lvU=",
+  "Source": "Mango.Services.OrdersPaymentsApi",
+  "BasePath": "_content/Mango.Services.OrdersPaymentsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

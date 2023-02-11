@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XJzb8+gdDdNJWynIPL6g2+Pa0oJZBUb5JIxlE4ItZXc=",
+  "Source": "Mango.Services.OrdersApi",
+  "BasePath": "_content/Mango.Services.OrdersApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

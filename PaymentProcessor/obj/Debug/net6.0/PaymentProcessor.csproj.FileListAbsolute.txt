@@ -1,0 +1,12 @@
+D:\new .net form\MangoRestaurant\PaymentProcessor\bin\Debug\net6.0\PaymentProcessor.deps.json
+D:\new .net form\MangoRestaurant\PaymentProcessor\bin\Debug\net6.0\PaymentProcessor.dll
+D:\new .net form\MangoRestaurant\PaymentProcessor\bin\Debug\net6.0\PaymentProcessor.pdb
+D:\new .net form\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.csproj.AssemblyReference.cache
+D:\new .net form\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\new .net form\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.AssemblyInfoInputs.cache
+D:\new .net form\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.AssemblyInfo.cs
+D:\new .net form\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.csproj.CoreCompileInputs.cache
+D:\new .net form\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.dll
+D:\new .net form\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\refint\PaymentProcessor.dll
+D:\new .net form\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\PaymentProcessor.pdb
+D:\new .net form\MangoRestaurant\PaymentProcessor\obj\Debug\net6.0\ref\PaymentProcessor.dll
